@@ -1,2 +1,2 @@
 # pepethelis.github.io
-Мой первый хостинг
+pepethelis's homepage
